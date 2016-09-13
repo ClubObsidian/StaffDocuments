@@ -1,4 +1,4 @@
-# StaffDocuments
+# Staff Documents
 Public staff documentation for [ClubObsidian.](www.clubobsidian.com)
 
 
