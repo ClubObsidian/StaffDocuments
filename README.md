@@ -1,5 +1,5 @@
 # Staff Documents
-Public staff documentation for [ClubObsidian.](www.clubobsidian.com)
+Public staff documentation for [ClubObsidian.](http://www.clubobsidian.com)
 
 
 # License
