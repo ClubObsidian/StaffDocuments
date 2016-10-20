@@ -40,7 +40,7 @@
 
 13. Do not advertise other Servers.
 
- Punishment: 
+ Punishment: Permanent ban
  
 14.Do not mention other servers. **This includes names and abbreviations**
 
