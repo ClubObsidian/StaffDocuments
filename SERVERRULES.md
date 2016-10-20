@@ -42,7 +42,7 @@
 
  Punishment: Permanent ban
  
-14.Do not mention other servers. **This includes names and abbreviations**
+14. Do not mention other servers. **This includes names and abbreviations**
 
  Punishment: warning-> 1h mute ->1d mute -> permanent ban
 
