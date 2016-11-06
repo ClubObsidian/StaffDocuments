@@ -6,9 +6,11 @@
 
 Having **3+** messages in the chat box **is** considered spam!
 
+* If they are all the same or similar messages you can mute but a player may be having a conversation so use common sense when muting
+
 ####2. Don't flood the chat
 
-Flooding the chat is using excessive, unnecessary amounts of letters, numbers, and other characters. Example being: "wcvjgmnotwkujwcv" or "OOOOOOOOOOOOH MYYYYYYYYYYYYY GOOOOOOOOOOOOSHHHHH".
+Flooding the chat is using excessive, unnecessary amounts of letters, numbers, and other characters. Example being: "wcvjgmnotwkujwcv" or "OOOOOOOH MYYYYYYYYY GOOOOOOOOOSHHHHH".
 
 ####3. Don't use unicode characters
 Anything outside of ASCII characters is not allowed.
@@ -17,13 +19,16 @@ Anything outside of ASCII characters is not allowed.
 
 Example: "THIS IS CAPS" "ThIs IS StILl CaPs, See Rule #5
 
-####5. Don't attempet to cause spam in chat.
+####5. Don't attempt to cause spam in chat.
 
 Saying you are going to give away something if someone says something in chat or similar is not allowed.
 
 ####6. No posting links in chat
 
 The only exception are a Twitch or YouTube rank advertising their channels or somebody posting a link from our services.
+
+* Twitch/Youtube can only post links to their videos and channels no one elses.
+* If a player is requesting help and posts a screenshot check it first and then mute if necessary
 
 ####7. Don't harass other players.
 
@@ -39,7 +44,7 @@ The punishment for racial slurs goes in the order of 1h -> 1d -> permanent
 
 No anti-semetic talk or anti-religous language.
 Please respect people no matter who they are or their beliefs.
-The punishment for anti-semetic talk or similar goes in the order of 1h ->1d -> permanent
+The punishment for anti-semetic talk or similar goes in the order of 1h -> 1d -> permanent
 
 ####10. No making fun of tragic events.
 
@@ -50,11 +55,20 @@ Punishment for poking fun at these events varies depending on the context.
 
 Any talk of any adult related content is strictly prohibited.
 Any attempt to link to adult websites will result in a permanent ban.
-Any talk of adult content is mutable with the punishments being 1h mute -> 1d -> permanent
+Any talk of adult content is mutable with the punishments being 15m -> 1h -> 1d -> permanent
 
-####12. Do not say anything that can relate to a DDOS threat.
+Examples of Adult Content
+
+* "Fuck me harder" - MalwareBytes 2k16 -> 15m mute as its being quoted by someone but still is not allowed
+* Omg Does anyone else here watch tentacle porn???!?!?!?! -> 1hr Mute
+* Everyone go to www.memehub.com for free adult videos and sexxxxxxx -> 1 day -> Perm depending on how they phrase it. 
+
+####12. Do not say anything that can relate to a DDOS threat or Harm Players
 
 If you make a ddos threat or similar threat you will be permanently banned.
+If you leak information about a player you will be permanently banned.
+
+The owners or admins may also contact the authorities depending on how badly you have affected someone
 
 ####13. Do not advertise other Servers.
 
@@ -89,7 +103,7 @@ Example: If you let your friend play and they break the rules, you are **100% Li
 
 * Optifine
 * The 5zig mod
-* Laby mod **(without add-ons)**
+* Labymod **(without ToggleSprint or Movement enhancing mods)**
 * Minimaps **(Without players, mobs, or animals)**
 * Health indicators
 * Armor HUD
