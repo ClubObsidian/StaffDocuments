@@ -115,5 +115,15 @@ Example: If you let your friend play and they break the rules, you are **100% Li
 * Shaders
 * Any mod that is aesthetic or doesnt change gameplay
 
+#Plugins
+####Custom tag rules
+
+* Excessive formatting is not allowed.
+* Using all magic formatting is not allowed and falls under excessive formatting.
 
 
+####Helpop
+
+* Using helpop to talk when you are muted is not allowed.
+* Helpop is there if you need to ask a question privately to staff.
+* Constantly pestering staff through helpop is not allowed when they have already tried to help you.
