@@ -1,6 +1,6 @@
 #Chat Rules
 ###Cursing is allowed, but cursing to harass others is not.
-###Mutes are handled in the time order of: 5m -> 15m -> 30m -> 1h -> 1d -> 1w -> permanent
+###Mutes for chat related offenses are handled in the time order of: 5m -> 15m -> 30m -> 1h -> 1d -> 1w -> permanent
 
 #####1. Don't spam the chat
 
@@ -61,9 +61,10 @@ Examples of Adult Content
 
 * "Fuck me harder" - MalwareBytes 2k16 -> 15m mute as its being quoted by someone but still is not allowed
 * Omg Does anyone else here watch tentacle porn???!?!?!?! -> 1hr Mute
-* Everyone go to www.memehub.com for free adult videos and sexxxxxxx -> 1 day -> Perm depending on how they phrase it. 
+* Everyone go to www.memehub.com for free adult videos and sexxxxxxx -> 1 day -> permanent depending on how they phrase it. 
+* If the player is attempting to link an adult website the punishment goes straight to a permanent mute or ban if the player is able to submit links into chat.
 
-####12. Do not say anything that can relate to a DDOS threat or Harm Players
+####12. Do not say anything that can relate to a DDOS threat or harming players
 
 If you make a ddos threat or similar threat you will be permanently banned.
 If you leak information about a player you will be permanently banned.
@@ -72,7 +73,7 @@ The owners or admins may also contact the authorities depending on how badly you
 
 ####13. Do not advertise other Servers.
 
-if you advertise other servers or attempt to you will be permanently banned.
+If you advertise other servers or attempt to you will be permanently banned.
 If you discuss other servers you will be warned at first and further action will be taken.
  
 ####14. Do not mention other servers. **This includes names and abbreviations**
@@ -89,9 +90,9 @@ the severity.
 
 ####2. Don't disrespect other **Players, or Staff**
 
-#####3. Use common sense. **Think Before You Act!**
+####3. Use common sense. **Think before you act!**
 
-####4. Trying to get punished on purpose will result in **longer punishments**.
+####4. Trying to get punished on purpose will result in a **longer punishment**.
 
 ####5. You are responsible for actions on your account. 
 
@@ -103,8 +104,8 @@ Example: If you let your friend play and they break the rules, you are **100% Li
 
 * Optifine
 * The 5zig mod
-* Labymod **(without ToggleSprint or Movement enhancing mods)**
-* Minimaps **(Without players, mobs, or animals)**
+* Labymod **(Without togglesprint or other movement enhancing mods)**
+* Minimaps **(Without players, mobs, or animals enabled)**
 * Health indicators
 * Armor HUD
 * Status HUD
