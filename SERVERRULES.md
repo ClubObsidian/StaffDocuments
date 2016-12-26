@@ -33,7 +33,7 @@ The only exception are a Twitch or YouTube rank advertising their channels or so
 ####7. Don't harass other players.
 
 Constantly calling someone names or insulting them in any way is not allowed.
-The punsihment depends on severity of the offence.
+The punishment depends on severity of the offence.
 
 ####8. No racial slurs. 
 
