@@ -59,8 +59,8 @@ Any talk of adult content is mutable with the punishments being 15m -> 1h -> 1d 
 
 Examples of Adult Content
 
-* "Fuck me harder" - MalwareBytes 2k16 -> 15m mute as its being quoted by someone but still is not allowed
-* Omg Does anyone else here watch tentacle porn???!?!?!?! -> 1hr Mute
+* "F*** me harder" - MalwareBytes 2k16 -> 15m mute as its being quoted by someone but still is not allowed
+* Omg Does anyone else here watch -insert adult content-???!?!?!?! -> 1hr Mute
 * If the player is attempting to link an adult website the punishment is a permanent ban.
 
 ####12. Do not say anything that can relate to a DDOS threat or harming players
