@@ -114,6 +114,19 @@ Example: If you let your friend play and they break the rules, you are **100% Li
 * Shaders
 * Any mod that is aesthetic or doesnt change gameplay
 
+#Macros
+###What you are allowed to do
+* Simple macros that you use while you are at your computer are allowed.
+* Creating chestshops.
+* Rebinding a key to make it easier to sell.
+* Binding a command to a key.
+ 
+###What isn't allowed
+* Complex macros that allow you to afk.
+* Something that isn't possible with a vanilla mincraft client.
+ * If your macros emulates vanilla minecraft client abilities but makes it easier that is fine.
+* If you bind two actions to one key to get an advantage in pvp or mining.
+
 #Plugins
 ####Custom tag rules
 
