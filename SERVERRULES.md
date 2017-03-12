@@ -99,6 +99,12 @@ Example: If you let your friend play and they break the rules, you are **100% Li
 
 ####6. Don't purposely attempt to go around, or evade the rules.
 
+####7. Don't try to trade out of game items, for anything ingame.
+
+####8. No attempting to distribute, sell, or purchase minecraft, or other types of accounts.
+
+####9. No distributing other player's personal information
+
 #Allowed mods
 
 * Optifine
