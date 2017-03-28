@@ -35,12 +35,12 @@ The only exception are a Twitch or YouTube rank advertising their channels or so
 Constantly calling someone names or insulting them in any way is not allowed.
 The punishment depends on severity of the offence.
 
-####8. No racial slurs. 
+#### 8. No racial slurs. 
 
 No racially charged language, you know what these are don't use them.
 The punishment for racial slurs goes in the order of 1h -> 1d -> permanent
 
-####9. No anti-semetic, or anti-religous slurs.
+#### 9. No anti-semetic, or anti-religous slurs.
 
 No anti-semetic talk or anti-religous language.
 Please respect people no matter who they are or their beliefs.
