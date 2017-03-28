@@ -75,7 +75,7 @@ The owners or admins may also contact the authorities depending on how badly you
 If you advertise other servers or attempt to you will be permanently banned.
 If you discuss other servers you will be warned at first and further action will be taken.
  
-####14. Do not mention other servers. **This includes names and abbreviations**
+#### 14. Do not mention other servers. **This includes names and abbreviations**
 
 Punishment for mentioning other servers are: warning-> 1h mute ->1d mute -> permanent ban
 
