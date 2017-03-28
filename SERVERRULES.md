@@ -84,7 +84,7 @@ Punishment for mentioning other servers are: warning-> 1h mute ->1d mute -> perm
 The punishment for encouraging suicide starts with a 1 hour mute and can go up depending on
 the severity.
 
-#Behavior
+# Behavior
 #### 1. **Listen to Staff**.
 
 #### 2. Don't disrespect other **Players, or Staff**
