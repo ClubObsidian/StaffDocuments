@@ -87,7 +87,7 @@ the severity.
 # Behavior
 #### 1. **Listen to Staff**.
 
-#### 2. Don't disrespect other **Players, or Staff**
+#### 2. Don't harass others
 
 #### 3. Use common sense. **Think before you act!**
 
