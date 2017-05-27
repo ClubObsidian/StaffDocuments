@@ -107,6 +107,8 @@ Example: If you let your friend play and they break the rules, you are **100% Li
 
 #### 9. No distributing other player's personal information
 
+#### 10. No impersonating staff, this includes statements such as "hey guys I'm staff" and "do this because I am staff".
+
 # Allowed mods
 
 * Optifine
