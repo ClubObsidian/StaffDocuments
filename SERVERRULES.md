@@ -17,7 +17,7 @@ Anything outside of ASCII characters is not allowed.
 
 #### 4. Don't use CAPS in **3+** words in one word
 
-Example: "THIS IS CAPS" "ThIs IS StILl CaPs, See Rule #5
+Example: "THIS IS CAPS" "ThIs IS StILl CaPs, See Rule #5 in Behavior
 
 #### 5. Don't attempt to cause spam in chat.
 
@@ -108,6 +108,19 @@ Example: If you let your friend play and they break the rules, you are **100% Li
 #### 9. No distributing other player's personal information
 
 #### 10. No impersonating staff, this includes statements such as "hey guys I'm staff" and "do this because I am staff".
+
+
+# Other ingame behavior
+
+#### 1. No trapping people in nether portals.
+
+#### 2. Scamming people ingame, for ingame items or ingame money is allowed, but discouraged because it can have a negitive effect on your reputation as a player. Scamming people for real-life money is not allowed. Example: If you make a deal with another person that you will buy them a rank, a rank is purchased for the other player, but they don't give the items and/money owed, that is a real-life money scam. If a player says they will buy you a rank, and you pay them money and they leave, it is still considered an ingame scam. 
+
+#### 3. No inappropriate plot builds. Don't build on your plot, what wouldn't be allowed in chat. This includes, but is not limited to anything listed in the rules
+
+#### 4. No using alternate accounts to cover up breaking the rules on another account. Example: You use a hacked client on an alternate account, so your main account that is a donator doesn't recieve a punishment
+
+
 
 # Allowed mods
 
