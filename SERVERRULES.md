@@ -15,7 +15,7 @@ Flooding the chat is using excessive, unnecessary amounts of letters, numbers, a
 #### 3. Don't use unicode characters
 Anything outside of ASCII characters is not allowed.
 
-#### 4. Don't use CAPS in **3+** words in one word
+#### 4. Don't use CAPS in **3** or more words in one message. 
 
 Example: "THIS IS CAPS" "ThIs IS StILl CaPs, See Rule #5 in Behavior
 
