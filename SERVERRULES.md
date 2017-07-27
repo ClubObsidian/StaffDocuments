@@ -22,8 +22,8 @@ Example: "THIS IS CAPS" "ThIs IS StILl CaPs, See Rule #5 in Behavior
 #### 5. Don't attempt to cause spam in chat.
 
 Saying you are going to give away something if someone says something in chat or similar is not allowed.
-Additionally attempting to use caps in multiple messages in just an attempt to bypass rule #4 is now allowed.
-However if the person only "bypasses" caps once with this restriction it is not a mutable offence.
+Additionally attempting to use caps in multiple messages in just an attempt to bypass rule #4 is not allowed.
+
 
 #### 6. No posting links in chat
 
