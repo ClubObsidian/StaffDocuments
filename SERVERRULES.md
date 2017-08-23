@@ -27,7 +27,7 @@ Anything outside of ASCII characters is not allowed.
 #### 4. Don't use CAPS, **3** or more words in one message is considered excessive use of caps. 
 
 Example: "THIS IS CAPS" "ThIs IS StILl CaPs."
-Additionally attempting to use caps in multiple messages in just an attempt to bypass this rule #4, and is not allowed.
+Additionally attempting to use caps in multiple messages in just an attempt to bypass this rule, and is not allowed.
 You may also be muted for being a smartass. Example: "CAPITAL LETTERS"
 
 #### 5. Don't attempt to cause spam in chat.
@@ -71,11 +71,11 @@ When quoting someone who stated some adult content, such as the example below, t
 
 Examples of Adult Content
 
-* "F*** me harder" - MalwareBytes 2k16 -> 15m mute as its being quoted by someone but still is not allowed
+* "F*** me harder" - MalwareBytes 2k16 -> 15m mute as its being quoted by someone but still is not allowed.
 * Omg Does anyone else here watch -insert adult content-???!?!?!?! -> 1hr Mute
 * If the player is attempting to link an adult website the punishment is a permanent ban.
 
-#### 12. Do not say anything that can relate to a DDOS threat or harming players
+#### 12. Do not say anything that can relate to a DDOS threat or harming players.
 
 If you make a ddos threat or similar threat you will be permanently banned.
 If you leak information about a player you will be permanently banned.
@@ -99,7 +99,7 @@ the severity.
 # Behavior
 #### 1. **Listen to Staff**.
 
-#### 2. Don't harass others
+#### 2. Don't harass others.
 
 #### 3. Use common sense. **Think before you act!**
 
