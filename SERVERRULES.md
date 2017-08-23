@@ -24,7 +24,7 @@ Example:
 #### 3. Don't use unicode characters
 Anything outside of ASCII characters is not allowed.
 
-#### 4. Don't use CAPS, **3** or more words in one message is considered excessive use of caps. 
+#### 4. Don't use CAPS, **3** or more words in one message is considered an excessive use of caps. 
 
 Example: "THIS IS CAPS" "ThIs IS StILl CaPs."
 Additionally attempting to use caps in multiple messages in just an attempt to bypass this rule, and is not allowed.
