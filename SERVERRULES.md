@@ -71,7 +71,6 @@ When quoting someone who stated some adult content, such as the example below, t
 
 Examples of Adult Content
 
-* "F*** me harder" - MalwareBytes 2k16 -> 15m mute as its being quoted by someone but still is not allowed.
 * Omg Does anyone else here watch -insert adult content-???!?!?!?! -> 1hr Mute
 * If the player is attempting to link an adult website the punishment is a permanent ban.
 
