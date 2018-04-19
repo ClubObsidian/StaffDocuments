@@ -121,6 +121,7 @@ Example: If you let your friend play and they break the rules, you are **100% Li
 
 #### 4. No using alternate accounts to cover up breaking the rules on another account. Example: You use a hacked client on an alternate account, so your main account with a donator rank doesn't recieve the punishment.
 
+#### 5. No using mass amounts of accounts online at once over a short period of time. This includes but is not limited to: Botting accounts, and using compromised accounts. Number of accounts and period of time is at the discretion of the staff member
 
 
 # Allowed mods
