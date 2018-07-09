@@ -21,67 +21,61 @@ Example:
 "not"
 "allowed"
 
-#### 3. Don't use CAPS, **3** or more words in one message is considered an excessive use of caps. 
-
-Example: "THIS IS CAPS" "ThIs IS StILl CaPs."
-Additionally attempting to use caps in multiple messages in just an attempt to bypass this rule, and is not allowed.
-You may also be muted for being a smartass. Example: "CAPITAL LETTERS"
-
-#### 4. Don't attempt to cause spam in chat.
+#### 3. Don't attempt to cause spam in chat.
 
 Saying you are going to give away something if someone says something in chat or similar is not allowed.
 
-#### 5. No posting links in chat
+#### 4. No posting links in chat
 
 The only exception to this rule is Twitch or YouTube rank advertising their channels or somebody posting a link from our services.
 
 * Twitch/Youtube can only post links to their videos and channels no one elses.
 * If a player is requesting help and posts a screenshot check it first and then mute if necessary
 
-#### 6. Don't harass other players.
+#### 5. Don't harass other players.
 
 Constantly calling someone names or insulting them in any way is not allowed.
 The punishment depends on severity of the offence.
 
-#### 7. No racial slurs. 
+#### 6. No racial slurs. 
 
 No racially charged language, you know what these are don't use them.
 The punishment for racial slurs goes in the order of 1d -> permanent
 
-#### 8. No anti-semetic, or anti-religous slurs.
+#### 7. No anti-semetic, or anti-religous slurs.
 
 No anti-semetic talk or anti-religous language.
 Please respect people no matter who they are or their beliefs.
 The punishment for anti-semetic talk or similar goes in the order of 1d -> permanent
 
-#### 9. No making fun of tragic events.
+#### 8. No making fun of tragic events.
 
 Examples being: Boston Marathon Bombing, 9-11, The Holocaust, ISIS attacks on Belguim & Paris.
 Punishment for poking fun at these events varies depending on the context.
 
-#### 10. No adult content. Keep it **PG-13**. 
+#### 9. No adult content. Keep it **PG-13**. 
 
 Any talk of any adult related content is strictly prohibited.
 Any attempt to link to adult websites will result in a permanent ban.
 Any talk of adult content is mutable with the punishments being 1d -> permanent
 
-#### 11. Do not say anything that can relate to a DDOS threat or harming players.
+#### 10. Do not say anything that can relate to a DDOS threat or harming players.
 
 If you make a ddos threat or similar threat you will be permanently banned.
 If you leak information about a player you will be permanently banned.
 
 The owners or admins may also contact the authorities depending on how badly you have affected someone
 
-#### 12. Do not advertise other Servers.
+#### 11. Do not advertise other Servers.
 
 If you advertise other servers or attempt to you will be permanently banned.
 If you discuss other servers you will be warned and then muted for 1d.
  
-#### 13. Do not mention other servers. **This includes names and abbreviations**
+#### 12. Do not mention other servers. **This includes names and abbreviations**
 
 Punishment for mentioning other servers are: warning-> 1h mute ->1d mute -> permanent ban
 
-#### 14. No encoraging suicide. Saying "KYS" or "Go drink bleach!" is not funny.
+#### 13. No encoraging suicide. Saying "KYS" or "Go drink bleach!" is not funny.
 
 The punishment for encouraging suicide starts with a 1 day mute and can go up depending on
 the severity.
