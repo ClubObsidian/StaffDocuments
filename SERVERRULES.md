@@ -115,7 +115,6 @@ This can includes but not limited to, claiming you are staff, changing your nick
 ### 1. No trapping people in nether portals.
 
 ### 2. Scamming people for real-life money is not allowed. 
-
 Example: If you make a deal with another person that you will buy them a rank, a rank is purchased for the other player, but they don't give the items and/or money owed, that is a real-life money scam. If a player says they will buy you a rank, and you pay them money and they leave, it is still considered an ingame scam. 
 
 ### 3. No inappropriate plot builds. Don't build on your plot what wouldn't be allowed in chat. This includes, but is not limited to, anything listed in the rules.
