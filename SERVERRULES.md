@@ -88,17 +88,15 @@ the severity.
 
 ## Behavior
 
-### 1. **Listen to Staff**.
+### 1. Listen to staff.
 
 ### 2. Don't harass others.
 
-### 3. Use common sense. **Think before you act!**
+### 3. Use common sense.
 
-### 4. Trying to get punished on purpose will result in a **longer punishment**.
+### 4. Trying to get punished on purpose will result in a longer punishment.
 
-### 5. You are responsible for actions on your account. 
-
-Example: If you let your friend play and they break the rules, you are **100% Liable!**
+### 5. You are responsible for all actions on your account, even if you were not playing. 
 
 ### 6. Don't purposely attempt to go around, or evade the rules.
 
@@ -108,9 +106,9 @@ Example: If you let your friend play and they break the rules, you are **100% Li
 
 ### 9. No distributing other player's personal information.
 
-### 10. No impersonating staff, this includes statements such as "hey guys I'm staff" and "do this because I am staff".
+### 10. No impersonating staff.
 
-This can also include things such as changing your /nick to a staff member's or making a tag that is a staff member's In Game Name or in game Nickname.
+This can includes but not limited to, claiming you are staff, changing your nickname, ingame-name to a staff member's or making a tag that is a staff member's name.
 
 
 ## Other ingame behavior
@@ -125,7 +123,7 @@ Example: If you make a deal with another person that you will buy them a rank, a
 
 ### 4. No using alternate accounts to cover up breaking the rules on another account. Example: You use a hacked client on an alternate account, so your main account with a donator rank doesn't recieve the punishment.
 
-### 5. No using mass amounts of accounts online at once over a short period of time. This includes but is not limited to: Botting accounts, and using compromised accounts. Number of accounts and period of time is at the discretion of the staff member
+### 5. No using mass amounts of accounts online at once over a short period of time. This includes but is not limited to: botting accounts and using compromised accounts. Number of accounts and period of time is at the discretion of the staff member
 
 
 ## Allowed mods
@@ -143,6 +141,7 @@ Example: If you make a deal with another person that you will buy them a rank, a
 * Shaders
 * Any mod that is aesthetic or doesnt change gameplay
 
+
 ## Macros
 
 
@@ -154,7 +153,7 @@ Example: If you make a deal with another person that you will buy them a rank, a
 * If your macros emulates vanilla minecraft client abilities but makes it easier that is fine.
 
 
-### Disaallowed
+### Disallowed
 * Complex macros that allow you to afk.
 * Something that isn't possible with a vanilla mincraft client.
 * If you bind two actions to one key to get an advantage in pvp or mining.
