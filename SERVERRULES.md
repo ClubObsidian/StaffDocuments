@@ -1,7 +1,5 @@
 **All rules defined are general guidelines but final discretion, it is up to the staff team what the punishment should be for what is done.**
 
-</br>
-
 ## Chat Rules
 
 
@@ -86,7 +84,6 @@ Punishment for mentioning other servers are: warning-> 1h mute ->1d mute -> perm
 The punishment for encouraging suicide starts with a 1 day mute and can go up depending on
 the severity.
 
-</br>
 
 ## Behavior
 
@@ -112,7 +109,6 @@ the severity.
 
 This can includes but not limited to, claiming you are staff, changing your nickname, ingame-name to a staff member's or making a tag that is a staff member's name.
 
-</br>
 
 ## Other ingame behavior
 
@@ -128,7 +124,6 @@ Example: If you make a deal with another person that you will buy them a rank, a
 
 ### 5. No using mass amounts of accounts online at once over a short period of time. This includes but is not limited to: botting accounts and using compromised accounts. Number of accounts and period of time is at the discretion of the staff member
 
-</br>
 
 ## Allowed mods
 
@@ -145,7 +140,6 @@ Example: If you make a deal with another person that you will buy them a rank, a
 * Shaders
 * Any mod that is aesthetic or doesnt change gameplay
 
-</br>
 
 ## Macros
 
@@ -163,7 +157,6 @@ Example: If you make a deal with another person that you will buy them a rank, a
 * Something that isn't possible with a vanilla mincraft client.
 * If you bind two actions to one key to get an advantage in pvp or mining.
 
-</br>
 
 ## Plugins
 
