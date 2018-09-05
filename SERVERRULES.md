@@ -11,7 +11,7 @@ Mutes for chat related offenses are handled in the time order of: 5m -> 15m -> 3
 
 Having **3+** messages in the chat box **is** considered spam! We go based off of the staff's chat box, which is usually around 20 lines, but may vary by staff member.
 
-* If they are all the same or similar messages you can mute but a player may be having a conversation so use common sense when muting
+If they are all the same or similar messages you can mute but a player may be having a conversation so use common sense when muting
 
 ### 2. Don't flood the chat
 
@@ -33,8 +33,9 @@ Saying you are going to give away something if someone says something in chat or
 
 The only exception to this rule is Twitch or YouTube rank advertising their channels or somebody posting a link from our services.
 
-* Twitch/Youtube can only post links to their videos and channels no one elses.
-* If a player is requesting help and posts a screenshot check it first and then mute if necessary
+Twitch/Youtube can only post links to their videos and channels no one elses.
+
+If a player is requesting help and posts a screenshot check it first and then mute if necessary
 
 ### 5. Don't harass other players.
 
@@ -116,7 +117,9 @@ This can also include things such as changing your /nick to a staff member's or 
 
 ### 1. No trapping people in nether portals.
 
-### 2. Scamming people ingame, for ingame items or ingame money is allowed, but discouraged because it can have a negitive effect on your reputation as a player. Scamming people for real-life money is not allowed. Example: If you make a deal with another person that you will buy them a rank, a rank is purchased for the other player, but they don't give the items and/or money owed, that is a real-life money scam. If a player says they will buy you a rank, and you pay them money and they leave, it is still considered an ingame scam. 
+### 2. Scamming people for real-life money is not allowed. 
+
+Example: If you make a deal with another person that you will buy them a rank, a rank is purchased for the other player, but they don't give the items and/or money owed, that is a real-life money scam. If a player says they will buy you a rank, and you pay them money and they leave, it is still considered an ingame scam. 
 
 ### 3. No inappropriate plot builds. Don't build on your plot what wouldn't be allowed in chat. This includes, but is not limited to, anything listed in the rules.
 
@@ -142,12 +145,14 @@ This can also include things such as changing your /nick to a staff member's or 
 
 ## Macros
 
+
 ### Allowed
 * Simple macros that you use while you are at your computer are allowed.
 * Creating chestshops.
 * Rebinding a key to make it easier to sell.
 * Binding a command to a key.
 * If your macros emulates vanilla minecraft client abilities but makes it easier that is fine.
+
 
 ### Disaallowed
 * Complex macros that allow you to afk.
@@ -156,6 +161,7 @@ This can also include things such as changing your /nick to a staff member's or 
 
 
 ## Plugins
+
 
 ### Custom tag rules
 
