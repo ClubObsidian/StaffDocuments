@@ -1,5 +1,3 @@
-# Server rules
-
 **All rules defined are general guidelines but final discretion is up to the staff team what the punishment should be.**
 
 ## Chat Rules
