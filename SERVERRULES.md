@@ -1,4 +1,6 @@
-**All rules defined are general guidelines but final discretion, it is up to the staff team what the punishment should be for what is done.**
+# Server rules
+
+**All rules defined are general guidelines but final discretion is up to the staff team what the punishment should be.**
 
 ## Chat Rules
 
@@ -15,7 +17,7 @@ If they are all the same or similar messages you can mute but a player may be ha
 
 Flooding the chat is using excessive, unnecessary amounts of letters, numbers, and other characters. Example being: "wcvjgmnotwkujwcv" or "OOOOOOOH MYYYYYYYYY GOOOOOOOOOSHHHHH". This may be called spam by a staff member.
 Sending multiple one word messages will also be considered flood.
-Example: 
+Example:
 "This"
 "is"
 "annoying"
@@ -73,7 +75,7 @@ The owners or admins may also contact the authorities depending on how badly you
 
 If you advertise other servers or attempt to you will be permanently banned.
 If you discuss other servers you will be warned and then muted for 1d.
- 
+
 ### 12. Do not mention other servers. **This includes names and abbreviations**
 
 Punishment for mentioning other servers are: warning-> 1h mute ->1d mute -> permanent ban
@@ -111,8 +113,9 @@ This can includes but not limited to, claiming you are staff, changing your nick
 
 ### 1. No trapping people in nether portals
 
-### 2. Scamming people for real-life money is not allowed.
-Example: If you make a deal with another person that you will buy them a rank, a rank is purchased for the other player, but they don't give the items and/or money owed, that is a real-life money scam. If a player says they will buy you a rank, and you pay them money and they leave, it is still considered an ingame scam. 
+### 2. Scamming people for real-life money is not allowed
+
+Example: If you make a deal with another person that you will buy them a rank, a rank is purchased for the other player, but they don't give the items and/or money owed, that is a real-life money scam. If a player says they will buy you a rank, and you pay them money and they leave, it is still considered an ingame scam.
 
 ### 3. No inappropriate plot builds. Don't build on your plot what wouldn't be allowed in chat. This includes, but is not limited to, anything listed in the rules
 
@@ -122,42 +125,44 @@ Example: If you make a deal with another person that you will buy them a rank, a
 
 ## Allowed mods
 
-*  Optifine
-*  The 5zig mod
-*  Labymod **(Without togglesprint or other movement enhancing mods)**
-*  Minimaps **(Without players, mobs, or animals enabled)**
-*  Health indicators
-*  Armor HUD
-*  Status HUD
-*  Effect HUD
-*  Direction HUD
-*  Schematica **(Without printer mode enabled)**
-*  Shaders
-*  Any mod that is aesthetic or doesnt change gameplay
+* Optifine
+* The 5zig mod
+* Labymod **(Without togglesprint or other movement enhancing mods)**
+* Minimaps **(Without players, mobs, or animals enabled)**
+* Health indicators
+* Armor HUD
+* Status HUD
+* Effect HUD
+* Direction HUD
+* Schematica **(Without printer mode enabled)**
+* Shaders
+* Any mod that is aesthetic or doesnt change gameplay
 
 ## Macros
 
 ### Allowed
-*  Simple macros that you use while you are at your computer are allowed.
-*  Creating chestshops.
-*  Rebinding a key to make it easier to sell.
-*  Binding a command to a key.
-*  If your macros emulates vanilla minecraft client abilities but makes it easier that is fine.
+
+* Simple macros that you use while you are at your computer are allowed.
+* Creating chestshops.
+* Rebinding a key to make it easier to sell.
+* Binding a command to a key.
+* If your macros emulates vanilla minecraft client abilities but makes it easier that is fine.
 
 ### Disallowed
-*  Complex macros that allow you to afk.
-*  Something that isn't possible with a vanilla mincraft client.
-*  If you bind two actions to one key to get an advantage in pvp or mining.
+
+* Complex macros that allow you to afk.
+* Something that isn't possible with a vanilla mincraft client.
+* If you bind two actions to one key to get an advantage in pvp or mining.
 
 ## Plugins
 
 ### Custom tag rules
 
-*  Excessive formatting is not allowed.
-*  Using all magic formatting is not allowed and falls under excessive formatting.
+* Excessive formatting is not allowed.
+* Using all magic formatting is not allowed and falls under excessive formatting.
 
 ### Helpop
 
-*  Using helpop to talk when you are muted is not allowed.
-*  Helpop is there if you need to ask a question privately to staff.
-*  Constantly pestering staff through helpop is not allowed when they have already tried to help you.
+* Using helpop to talk when you are muted is not allowed.
+* Helpop is there if you need to ask a question privately to staff.
+* Constantly pestering staff through helpop is not allowed when they have already tried to help you.
